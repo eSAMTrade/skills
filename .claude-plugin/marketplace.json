@@ -1,0 +1,14 @@
+{
+  "name": "esamtrade",
+  "owner": {
+    "name": "eSAMTrade"
+  },
+  "plugins": [
+    {
+      "name": "esamtrade-skills",
+      "source": "./",
+      "description": "Portable development, writing, UI review and collaboration skills."
+    }
+  ],
+  "description": "Standalone eSAMTrade skills for development, writing and agent collaboration."
+}

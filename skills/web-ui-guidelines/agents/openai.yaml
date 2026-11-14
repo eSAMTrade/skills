@@ -1,0 +1,4 @@
+interface:
+  display_name: "Web UI Guidelines"
+  short_description: "Review web UI code for accessibility and interface quality"
+  default_prompt: "Use $web-ui-guidelines to review these web UI files for guideline violations: $ARGUMENTS"

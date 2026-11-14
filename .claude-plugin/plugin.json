@@ -1,0 +1,7 @@
+{
+  "name": "esamtrade-skills",
+  "version": "0.1.0",
+  "description": "Portable eSAMTrade skills for development, writing, UI review and agent collaboration.",
+  "author": {"name": "eSAMTrade"},
+  "repository": "https://github.com/eSAMTrade/skills"
+}
